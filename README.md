@@ -30,5 +30,5 @@ run this command:
 python3 DL.py
 
 (you may need sudo before it)
-the Videos specified in list.txt will no download into the working folder.
+the Videos specified in list.txt will now download into the working folder.
 this may take a while if you have a lot of videos.
