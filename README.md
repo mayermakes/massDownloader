@@ -1,6 +1,6 @@
 # massDownloader
 Download your own Youtube videos for archiving in bulk
-
+*youtube-dl is notworking as expected currrently so use with caution it might not be able to download all your files.*
 
 Prerequisites:
 You need to run this on a computer running any version of linux (tested with Raspbian, Debian and Ubuntu).
